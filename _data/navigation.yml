@@ -2,8 +2,8 @@
 
 - text: Home
   url: /
-- text: About
-  url: /about
+- text: Metadata
+  url: /metadata
 - text: Contact
   url: /contact
 - text: Blog
